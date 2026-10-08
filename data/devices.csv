@@ -1,0 +1,4 @@
+device_id,name,site
+101,web-edge,Lab A
+102,app-node,Lab A
+103,backup-node,Lab B

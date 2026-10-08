@@ -1,0 +1,4 @@
+device_id,reachable,dns_servers
+101,yes,192.0.2.53;192.0.2.54
+102,yes,203.0.113.53
+103,no,
